@@ -39,7 +39,7 @@ The user interface for the **farmer's side** of the platform was collaboratively
 - **Tlotliso Khosi** *(UI/UX Developer)*  
 - **Katleho Nkoe** *(UI/UX Collaborator)*  
 
-Their work focused on making the farmer experience intuitive, accessible, and user-friendly to support widespread adoption in both rural and urban agricultural settings.  
+Their work focused on making the farmer experience intuitive, accessible, and user-friendly to support widespread adoption in both rural and urban agricultural settings. with Tlotliso Khosi focusing on the other parts of the user interface like the vustomer's UI/UX including the backend development and database storage. 
 
 ---
 
